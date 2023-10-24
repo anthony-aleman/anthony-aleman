@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthony-aleman
 - 👀 I’m interested in Full Stack Development, Mixed Martial Arts and Meso-American History
-- 🌱 I’m currently learning Font end Development w /React and Backend Development w/ Python & Flask
+- 🌱 I’m currently learning Backend Development w/ Python & Flask
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me : Email - anthonyaleman4@gmail.com
 
