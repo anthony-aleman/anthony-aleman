@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @anthony-aleman
-- 👀 I’m interested in Full Stack Development, Mixed Martial Arts and Meso-American History
-- 🌱 I’m currently learning Backend Development w/ Python & Flask
-- 💞️ I’m looking to collaborate on Open source projects
+- 👋 Hi, I’m @anthony-aleman 
+- 👀 I’m interested in Linear Algebra, Mixed Martial Arts and Meso-American History
+- 🌱 I’m currently learning Graphics programming and Data Analysis
+- 💞️ I’m looking to collaborate on Zig and Python projects
 - 📫 How to reach me : Email - anthonyaleman4@gmail.com
+
 
 <!---
 anthony-aleman/anthony-aleman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
