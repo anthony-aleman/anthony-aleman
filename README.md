@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anthony-aleman 
-- 👀 I’m interested in Linear Algebra, Mixed Martial Arts and Meso-American History
-- 🌱 I’m currently learning Graphics programming and Data Analysis
-- 💞️ I’m looking to collaborate on Zig and Python projects
+- 🌱 I’m currently learning Graphics programming using Javascript and Three.js
+- 💞️ I’m looking to collaborate on Three.js and other Javascript projects
 - 📫 How to reach me : Email - anthonyaleman4@gmail.com
 
 
