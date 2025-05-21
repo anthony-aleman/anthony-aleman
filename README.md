@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthony-aleman 
-- 🌱 I’m currently learning Graphics programming using Javascript and Three.js
-- 💞️ I’m looking to collaborate on Three.js and other Javascript projects
+- 🌱 I’m currently learning Frontend Development using Typescript
+- 💞️ I’m looking to collaborate on Three.js and other Typescript/Javascript projects
 - 📫 How to reach me : Email - anthonyaleman4@gmail.com
 
 
